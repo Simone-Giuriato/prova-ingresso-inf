@@ -1,0 +1,11 @@
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\bin\Debug\netcoreapp2.1\Riscaldamento.deps.json
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\bin\Debug\netcoreapp2.1\Riscaldamento.runtimeconfig.json
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\bin\Debug\netcoreapp2.1\Riscaldamento.runtimeconfig.dev.json
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\bin\Debug\netcoreapp2.1\Riscaldamento.dll
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\bin\Debug\netcoreapp2.1\Riscaldamento.pdb
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.csprojAssemblyReference.cache
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.csproj.CoreCompileInputs.cache
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.AssemblyInfoInputs.cache
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.AssemblyInfo.cs
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.dll
+C:\Users\giuri\OneDrive\Desktop\Riscaldamento\Riscaldamento\obj\Debug\netcoreapp2.1\Riscaldamento.pdb
